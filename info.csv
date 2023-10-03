@@ -1,0 +1,230 @@
+server,server_name_slug,network_name,country_code,as
+calcium.libera.chat,Libera_Chat-calcium_libera_chat-CA-AS6453,Libera.Chat,CA,AS6453 TATA COMMUNICATIONS (AMERICA) INC
+erbium.libera.chat,Libera_Chat-erbium_libera_chat-DE-AS29686,Libera.Chat,DE,AS29686 Jonas Frey trading as Probe Networks
+zinc.libera.chat,Libera_Chat-zinc_libera_chat-FI-AS1741,Libera.Chat,FI,AS1741 CSC - Tieteen tietotekniikan keskus Oy
+iridium.libera.chat,Libera_Chat-iridium_libera_chat-SE-AS1653,Libera.Chat,SE,AS1653 Vetenskapsradet / SUNET
+platinum.libera.chat,Libera_Chat-platinum_libera_chat-SE-AS1653,Libera.Chat,SE,AS1653 Vetenskapsradet / SUNET
+molybdenum.libera.chat,Libera_Chat-molybdenum_libera_chat-CA-AS16276,Libera.Chat,CA,AS16276 OVH SAS
+#tantalum.libera.chat,Libera_Chat-tantalum_libera_chat-NL-AS60503,Libera.Chat,NL,AS60503 FNX Tecnologia LTDA
+lead.libera.chat,Libera_Chat-lead_libera_chat-HU-AS41075,Libera.Chat,HU,AS41075 ATW Internet Kft.
+tungsten.libera.chat,Libera_Chat-tungsten_libera_chat-SE-AS2833,Libera.Chat,SE,AS2833 Umea University
+zirconium.libera.chat,Libera_Chat-zirconium_libera_chat-IT-AS12637,Libera.Chat,IT,AS12637 SEEWEB s.r.l.
+osmium.libera.chat,Libera_Chat-osmium_libera_chat-SE-AS1653,Libera.Chat,SE,AS1653 Vetenskapsradet / SUNET
+silver.libera.chat,Libera_Chat-silver_libera_chat-US-AS40676,Libera.Chat,US,AS40676 Psychz Networks
+mercury.libera.chat,Libera_Chat-mercury_libera_chat-GB-AS16276,Libera.Chat,GB,AS16276 OVH SAS
+copper.libera.chat,Libera_Chat-copper_libera_chat-BG-AS31083,Libera.Chat,BG,AS31083 Telepoint Ltd
+lithium.libera.chat,Libera_Chat-lithium_libera_chat-GB-AS63949,Libera.Chat,GB,AS63949 Akamai Connected Cloud
+cadmium.libera.chat,Libera_Chat-cadmium_libera_chat-US-AS40138,Libera.Chat,US,AS40138 Mach Dilemma, LLC
+sodium.libera.chat,Libera_Chat-sodium_libera_chat-US-AS18530,Libera.Chat,US,AS18530 Isomedia, Inc.
+#uni-erlangen.de,IRCnet-uni-erlangen_de-DE-AS680,IRCnet,DE,AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+irc.atw-inter.net,IRCnet-irc_atw-inter_net-HU-AS41075,IRCnet,HU,AS41075 ATW Internet Kft.
+irc.us.ircnet.net,IRCnet-irc_us_ircnet_net-US-AS46844,IRCnet,US,AS46844 Sharktech
+fu-berlin.de,IRCnet-fu-berlin_de-DE-AS680,IRCnet,DE,AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+losangeles.ca.us.undernet.org,Undernet-losangeles_ca_us_undernet_org-US-AS46573,Undernet,US,AS46573 LayerHost
+#miami.fl.us.undernet.org,Undernet-miami_fl_us_undernet_org-US-AS262287,Undernet,US,AS262287 Latitude.sh LTDA
+pipera.ro.eu.undernet.org,Undernet-pipera_ro_eu_undernet_org-RO-AS60117,Undernet,RO,AS60117 Host Sailor Ltd
+dallas.tx.us.undernet.org,Undernet-dallas_tx_us_undernet_org-US-AS40676,Undernet,US,AS40676 Psychz Networks
+#chicago.il.us.undernet.org,Undernet-chicago_il_us_undernet_org-US-AS14987,Undernet,US,AS14987 Rethem Hosting LLC
+#seattle.wa.us.undernet.org,Undernet-seattle_wa_us_undernet_org-US-AS201106,Undernet,US,AS201106 Spartan Host Ltd
+#capelle.nl.eu.undernet.org,Undernet-capelle_nl_eu_undernet_org-NL-AS60117,Undernet,NL,AS60117 Host Sailor Ltd
+#budapest.hu.eu.undernet.org,Undernet-budapest_hu_eu_undernet_org-HU-AS41075,Undernet,HU,AS41075 ATW Internet Kft.
+irc.homelien.no,EFnet-irc_homelien_no-NO-AS2116,EFnet,NO,AS2116 GLOBALCONNECT AS
+#irc.choopa.net,EFnet-irc_choopa_net-US-AS20473,EFnet,US,AS20473 The Constant Company, LLC
+efnet.deic.eu,EFnet-efnet_deic_eu-DK-AS1835,EFnet,DK,AS1835 Forskningsnettet - Danish network for Research and Education
+#irc.prison.net,EFnet-irc_prison_net-US-AS11404,EFnet,US,AS11404 Wave Broadband
+#irc.underworld.no,EFnet-irc_underworld_no-NO-AS224,EFnet,NO,AS224 SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR
+#efnet.port80.se,EFnet-efnet_port80_se-SE-AS39369,EFnet,SE,AS39369 Availo Networks AB
+#irc.servercentral.net,EFnet-irc_servercentral_net-US-AS23352,EFnet,US,AS23352 Server Central Network
+#irc.colosolutions.net,EFnet-irc_colosolutions_net-US-AS16557,EFnet,US,AS16557 Colo Solutions
+#irc.mzima.net,EFnet-irc_mzima_net-US-AS25973,EFnet,US,AS25973 PacketExchange, Inc
+irc.efnet.nl,EFnet-irc_efnet_nl-NL-AS1101,EFnet,NL,AS1101 SURF B.V.
+irc.swepipe.se,EFnet-irc_swepipe_se-SE-AS1653,EFnet,SE,AS1653 Vetenskapsradet / SUNET
+euroserv.fr.quakenet.org,QuakeNet-euroserv_fr_quakenet_org-FR-AS31216,QuakeNet,FR,AS31216 BSO Network Solutions SAS
+adrift.sg.quakenet.org,QuakeNet-adrift_sg_quakenet_org-SG-AS16276,QuakeNet,SG,AS16276 OVH SAS
+hostsailor.ro.quakenet.org,QuakeNet-hostsailor_ro_quakenet_org-RO-AS60117,QuakeNet,RO,AS60117 Host Sailor Ltd
+port80c.se.quakenet.org,QuakeNet-port80c_se_quakenet_org-SE-AS1653,QuakeNet,SE,AS1653 Vetenskapsradet / SUNET
+#atw.hu.quakenet.org,QuakeNet-atw_hu_quakenet_org-HU-AS41075,QuakeNet,HU,AS41075 ATW Internet Kft.
+tngnet.nl.quakenet.org,QuakeNet-tngnet_nl_quakenet_org-NL-AS39521,QuakeNet,NL,AS39521 TNGNET B.V.
+stockholm.se.quakenet.org,QuakeNet-stockholm_se_quakenet_org-SE-AS1653,QuakeNet,SE,AS1653 Vetenskapsradet / SUNET
+#underworld2.no.quakenet.org,QuakeNet-underworld2_no_quakenet_org-NO-AS224,QuakeNet,NO,AS224 SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR
+lima.chatzona.org,Chatzona-lima_chatzona_org-FR-AS16276,Chatzona,FR,AS16276 OVH SAS
+melocoton.chatzona.org,Chatzona-melocoton_chatzona_org-FR-AS16276,Chatzona,FR,AS16276 OVH SAS
+sakura.jp.as.dal.net,DALnet-sakura_jp_as_dal_net-JP-AS212238,DALnet,JP,AS212238 Datacamp Limited
+punch.wa.us.dal.net,DALnet-punch_wa_us_dal_net-US-AS14987,DALnet,US,AS14987 Rethem Hosting LLC
+#choopa.nj.us.dal.net,DALnet-choopa_nj_us_dal_net-US-AS20473,DALnet,US,AS20473 The Constant Company, LLC
+bitcoin.uk.eu.dal.net,DALnet-bitcoin_uk_eu_dal_net-GB-AS212238,DALnet,GB,AS212238 Datacamp Limited
+#lion.tx.us.dal.net,DALnet-lion_tx_us_dal_net-US-AS40676,DALnet,US,AS40676 Psychz Networks
+#atw.hu.eu.dal.net,DALnet-atw_hu_eu_dal_net-HU-AS41075,DALnet,HU,AS41075 ATW Internet Kft.
+#lair.nl.eu.dal.net,DALnet-lair_nl_eu_dal_net-NL-AS40676,DALnet,NL,AS40676 Psychz Networks
+#halcyon.il.us.dal.net,DALnet-halcyon_il_us_dal_net-US-AS14987,DALnet,US,AS14987 Rethem Hosting LLC
+#bifrost.ca.us.dal.net,DALnet-bifrost_ca_us_dal_net-US-AS46844,DALnet,US,AS46844 Sharktech
+nonstop.ix.me.dal.net,DALnet-nonstop_ix_me_dal_net-SE-AS31800,DALnet,SE,AS31800 DALnet
+serenity.fl.us.dal.net,DALnet-serenity_fl_us_dal_net-US-AS212238,DALnet,US,AS212238 Datacamp Limited
+ing.hackint.org,hackint-ing_hackint_org-NL-AS198203,hackint,NL,AS198203 RouteLabel V.O.F.
+chaostal.hackint.org,hackint-chaostal_hackint_org-DE-AS61157,hackint,DE,AS61157 PlusServer GmbH
+nuke.hackint.org,hackint-nuke_hackint_org-DE-AS200603,hackint,DE,AS200603 FIXME GmbH
+irc.snoonet.org,Snoonet-irc_snoonet_org-DE-AS14061,Snoonet,DE,AS14061 DigitalOcean, LLC
+irc2.acc.umu.se,GIMPnet-irc2_acc_umu_se-SE-AS2833,GIMPnet,SE,AS2833 Umea University
+irc4.acc.umu.se,GIMPnet-irc4_acc_umu_se-SE-AS2833,GIMPnet,SE,AS2833 Umea University
+irc.eagle.y.se,GIMPnet-irc_eagle_y_se-NL-AS12876,GIMPnet,NL,AS12876 SCALEWAY S.A.S.
+irc.gimp.ca,GIMPnet-irc_gimp_ca-CA-AS16276,GIMPnet,CA,AS16276 OVH SAS
+godzilla.jp.p2p-network.net,P2P-NET-godzilla_jp_p2p-network_net-JP-AS63949,P2P-NET,JP,AS63949 Akamai Connected Cloud
+lab.simosnap.com,SimosNap-lab_simosnap_com-FR-AS16276,SimosNap,FR,AS16276 OVH SAS
+gra2.simosnap.com,SimosNap-gra2_simosnap_com-FR-AS16276,SimosNap,FR,AS16276 OVH SAS
+cloud.hybridirc.com,HybridIRC-cloud_hybridirc_com-GB-AS16276,HybridIRC,GB,AS16276 OVH SAS
+irc.link-net.be,LinkNet-irc_link-net_be-BE-AS42160,LinkNet,BE,AS42160 DC STAR nv
+irc.link-net.nl,LinkNet-irc_link-net_nl-NL-AS1133,LinkNet,NL,AS1133 SURF B.V.
+irc.us-ca2.link-net.org,LinkNet-irc_us-ca2_link-net_org-US-AS14061,LinkNet,US,AS14061 DigitalOcean, LLC
+linknet.sh.cvut.cz,LinkNet-linknet_sh_cvut_cz-CZ-AS2852,LinkNet,CZ,AS2852 CESNET z.s.p.o.
+irc.ca2.link-net.org,LinkNet-irc_ca2_link-net_org-CA-AS14061,LinkNet,CA,AS14061 DigitalOcean, LLC
+irc.de2.link-net.org,LinkNet-irc_de2_link-net_org-DE-AS14061,LinkNet,DE,AS14061 DigitalOcean, LLC
+irc.link-net.fi,LinkNet-irc_link-net_fi-FI-AS13170,LinkNet,FI,AS13170 Kaisanet Oy
+irc.no.link-net.org,LinkNet-irc_no_link-net_org-NO-AS56655,LinkNet,NO,AS56655 TerraHost AS
+irc.se.link-net.org,LinkNet-irc_se_link-net_org-SE-AS30893,LinkNet,SE,AS30893 No ACK Group Holding AB
+stockholm.se.eu.gamesurge.net,GameSurge-stockholm_se_eu_gamesurge_net-SE-AS1653,GameSurge,SE,AS1653 Vetenskapsradet / SUNET
+tal.de.eu.gamesurge.net,GameSurge-tal_de_eu_gamesurge_net-DE-AS8820,GameSurge,DE,AS8820 TAL.DE GmbH
+#burstfire.uk.eu.gamesurge.net,GameSurge-burstfire_uk_eu_gamesurge_net-GB-AS9153,GameSurge,GB,AS9153 Burstfire Networks Ltd
+nuclearfallout.wa.us.gamesurge.net,GameSurge-nuclearfallout_wa_us_gamesurge_net-US-AS32751,GameSurge,US,AS32751 Nuclearfallout Enterprises, Inc.
+prothid.ny.us.gamesurge.net,GameSurge-prothid_ny_us_gamesurge_net-US-AS13789,GameSurge,US,AS13789 Unitas Global
+stormlight.esper.net,EsperNet-stormlight_esper_net-US-AS63949,EsperNet,US,AS63949 Akamai Connected Cloud
+calamity.esper.net,EsperNet-calamity_esper_net-AU-AS16276,EsperNet,AU,AS16276 OVH SAS
+anarchy.esper.net,EsperNet-anarchy_esper_net-FR-AS16276,EsperNet,FR,AS16276 OVH SAS
+swepipe.esper.net,EsperNet-swepipe_esper_net-SE-AS1653,EsperNet,SE,AS1653 Vetenskapsradet / SUNET
+catastrophe.esper.net,EsperNet-catastrophe_esper_net-NL-AS198203,EsperNet,NL,AS198203 RouteLabel V.O.F.
+irc.konnectchatirc.net,KonnectChatIRC-irc_konnectchatirc_net-US-AS19108,KonnectChatIRC,US,AS19108 Suddenlink Communications
+#monster.va.us.synirc.net,synIRC-monster_va_us_synirc_net-US-AS14618,synIRC,US,AS14618 Amazon.com, Inc.
+lust.jp.as.synirc.net,synIRC-lust_jp_as_synirc_net-JP-AS16509,synIRC,JP,AS16509 Amazon.com, Inc.
+sirocco.tx.us.synirc.net,synIRC-sirocco_tx_us_synirc_net-US-AS63949,synIRC,US,AS63949 Akamai Connected Cloud
+avarice.ny.us.synirc.net,synIRC-avarice_ny_us_synirc_net-US-AS14061,synIRC,US,AS14061 DigitalOcean, LLC
+hades.de.eu.synirc.net,synIRC-hades_de_eu_synirc_net-DE-AS48314,synIRC,DE,AS48314 Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG
+wrath.uk.eu.synirc.net,synIRC-wrath_uk_eu_synirc_net-GB-AS203380,synIRC,GB,AS203380 DA International Group Ltd.
+librenet.europnet.org,EuropNet-librenet_europnet_org-FR-AS48813,EuropNet,FR,AS48813 Enix SAS
+fantasya.europnet.org,EuropNet-fantasya_europnet_org-DE-AS24940,EuropNet,DE,AS24940 Hetzner Online GmbH
+buybsd.ny.us.irc-nerds.net,IRC-Nerds-buybsd_ny_us_irc-nerds_net-US-AS53667,IRC-Nerds,US,AS53667 FranTech Solutions
+sith-order.irc-nerds.net,IRC-Nerds-sith-order_irc-nerds_net-US-AS53667,IRC-Nerds,US,AS53667 FranTech Solutions
+crispr.irc-nerds.net,IRC-Nerds-crispr_irc-nerds_net-PL-AS16276,IRC-Nerds,PL,AS16276 OVH SAS
+webchat.irc-nerds.net,IRC-Nerds-webchat_irc-nerds_net-US-AS46475,IRC-Nerds,US,AS46475 Limestone Networks, Inc.
+racknerd.irc-nerds.net,IRC-Nerds-racknerd_irc-nerds_net-US-AS36352,IRC-Nerds,US,AS36352 ColoCrossing
+robotics.irc-nerds.net,IRC-Nerds-robotics_irc-nerds_net-AU-AS16276,IRC-Nerds,AU,AS16276 OVH SAS
+#irc.freeunibg.eu,FreeUniBG-irc_freeunibg_eu-DE-AS16276,FreeUniBG,DE,AS16276 OVH SAS
+institute.tilde.chat,tilde_chat-institute_tilde_chat-DE-AS24940,tilde.chat,DE,AS24940 Hetzner Online GmbH
+cosmic.tilde.chat,tilde_chat-cosmic_tilde_chat-GB-AS20473,tilde.chat,GB,AS20473 The Constant Company, LLC
+team.tilde.chat,tilde_chat-team_tilde_chat-US-AS16276,tilde.chat,US,AS16276 OVH SAS
+aussie.tilde.chat,tilde_chat-aussie_tilde_chat-AU-AS16276,tilde.chat,AU,AS16276 OVH SAS
+bsd.tilde.chat,tilde_chat-bsd_tilde_chat-DE-AS24940,tilde.chat,DE,AS24940 Hetzner Online GmbH
+ctrl-c.tilde.chat,tilde_chat-ctrl-c_tilde_chat-US-AS14061,tilde.chat,US,AS14061 DigitalOcean, LLC
+wonder.slashnet.org,SlashNET-wonder_slashnet_org-US-AS3549,SlashNET,US,AS3549 Level 3 Parent, LLC
+moo.slashnet.org,SlashNET-moo_slashnet_org-US-AS8100,SlashNET,US,AS8100 QuadraNet Enterprises LLC
+spaniels.slashnet.org,SlashNET-spaniels_slashnet_org-GB-AS63949,SlashNET,GB,AS63949 Akamai Connected Cloud
+#wurst.slashnet.org,SlashNET-wurst_slashnet_org-DE-AS16509,SlashNET,DE,AS16509 Amazon.com, Inc.
+#irc.sohbet.net,Sohbet_net-irc_sohbet_net-TR-AS43391,Sohbet.net,TR,AS43391 Netdirekt A.S.
+united.geeknode.org,GeekNode-united_geeknode_org-FR-AS16276,GeekNode,FR,AS16276 OVH SAS
+wirefull.geeknode.org,GeekNode-wirefull_geeknode_org-FR-AS29075,GeekNode,FR,AS29075 IELO-LIAZO SERVICES SAS
+hivane.geeknode.org,GeekNode-hivane_geeknode_org-FR-AS34019,GeekNode,FR,AS34019 Hivane
+public-irc.w3.org,w3_org-public-irc_w3_org-US-AS3,w3.org,US,AS3 Massachusetts Institute of Technology
+irc.chaat.fr,Chaat-irc_chaat_fr-FR-AS16276,Chaat,FR,AS16276 OVH SAS
+jmt1.darkfasel.net,darkfasel_net-jmt1_darkfasel_net-DE-AS35366,darkfasel.net,DE,AS35366 ISPpro Internet KG
+jmt0.darkfasel.net,darkfasel_net-jmt0_darkfasel_net-DE-AS42730,darkfasel.net,DE,AS42730 EVANZO e-commerce GmbH
+irc.lim.de.euirc.net,euIRC-irc_lim_de_euirc_net-DE-AS16276,euIRC,DE,AS16276 OVH SAS
+irc.sbg.fr.euirc.net,euIRC-irc_sbg_fr_euirc_net-FR-AS16276,euIRC,FR,AS16276 OVH SAS
+irc.inn.at.euirc.net,euIRC-irc_inn_at_euirc_net-AT-AS31394,euIRC,AT,AS31394 nemox.net Informationstechnologie OG
+defiant.geekshed.net,GeekShed-defiant_geekshed_net-CA-AS14061,GeekShed,CA,AS14061 DigitalOcean, LLC
+#ds9.geekshed.net,GeekShed-ds9_geekshed_net-US-AS19994,GeekShed,US,AS19994 Rackspace Hosting
+rubicon.geekshed.net,GeekShed-rubicon_geekshed_net-US-AS19994,GeekShed,US,AS19994 Rackspace Hosting
+jolly.geekshed.net,GeekShed-jolly_geekshed_net-CA-AS6939,GeekShed,CA,AS6939 Hurricane Electric LLC
+nexus.skychatz.org,SkyChatz-nexus_skychatz_org-MY-AS4788,SkyChatz,MY,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
+galaxy.skychatz.org,SkyChatz-galaxy_skychatz_org-SG-AS16276,SkyChatz,SG,AS16276 OVH SAS
+java.skychatz.org,SkyChatz-java_skychatz_org-SG-AS16276,SkyChatz,SG,AS16276 OVH SAS
+irc.cyberircd.net,BGirc_com-irc_cyberircd_net-CA-AS16276,BGirc.com,CA,AS16276 OVH SAS
+irc.bgirc.com,BGirc_com-irc_bgirc_com-FR-AS16276,BGirc.com,FR,AS16276 OVH SAS
+irc.chatbg.info,BGirc_com-irc_chatbg_info-DE-AS16276,BGirc.com,DE,AS16276 OVH SAS
+lista.globalirc.it,GlobalIRC_it-lista_globalirc_it-FR-AS12876,GlobalIRC.it,FR,AS12876 SCALEWAY S.A.S.
+london.globalirc.it,GlobalIRC_it-london_globalirc_it-FR-AS12876,GlobalIRC.it,FR,AS12876 SCALEWAY S.A.S.
+beton.bolchat.com,BOLChat-beton_bolchat_com-US-AS15133,BOLChat,US,AS15133 Edgecast Inc.
+leptir.bolchat.com,BOLChat-leptir_bolchat_com-US-AS15133,BOLChat,US,AS15133 Edgecast Inc.
+#neuron.axon.pw,Axon-neuron_axon_pw-CA-AS16276,Axon,CA,AS16276 OVH SAS
+aesir.sorcery.net,SorceryNet-aesir_sorcery_net-US-AS26347,SorceryNet,US,AS26347 New Dream Network, LLC
+themis.sorcery.net,SorceryNet-themis_sorcery_net-DE-AS24940,SorceryNet,DE,AS24940 Hetzner Online GmbH
+gaia.sorcery.net,SorceryNet-gaia_sorcery_net-GB-AS16276,SorceryNet,GB,AS16276 OVH SAS
+irc.kalbim.net,Kalbim_Net-irc_kalbim_net-TR-AS51559,Kalbim.Net,TR,AS51559 Netinternet Bilisim Teknolojileri AS
+ptservidor.ptnet.org,PTnet-ptservidor_ptnet_org-PT-AS62416,PTnet,PT,AS62416 SAMPLING LINE-SERVICOS E INTERNET, LDA
+sonaquela.ptnet.org,PTnet-sonaquela_ptnet_org-NL-AS14061,PTnet,NL,AS14061 DigitalOcean, LLC
+flux.technet.chat,TechNet-flux_technet_chat-US-AS64245,TechNet,US,AS64245 DigitalFyre Internet Solutions, LLC.
+driven.technet.chat,TechNet-driven_technet_chat-US-AS16276,TechNet,US,AS16276 OVH SAS
+#core.technet.chat,TechNet-core_technet_chat-GB-AS64245,TechNet,GB,AS64245 DigitalFyre Internet Solutions, LLC.
+ninja.technet.chat,TechNet-ninja_technet_chat-GB-AS16276,TechNet,GB,AS16276 OVH SAS
+fl.technet.chat,TechNet-fl_technet_chat-US-AS23470,TechNet,US,AS23470 ReliableSite.Net LLC
+irc3.ptirc.org,PTirc-irc3_ptirc_org-DE-AS24940,PTirc,DE,AS24940 Hetzner Online GmbH
+irc1.ptirc.org,PTirc-irc1_ptirc_org-BG-AS44901,PTirc,BG,AS44901 Belcloud LTD
+#ford.tamarou.com,MagNET-ford_tamarou_com-US-AS63949,MagNET,US,AS63949 Akamai Connected Cloud
+quebec.allnightcafe.com,AllNightCafe-quebec_allnightcafe_com-JP-AS16276,AllNightCafe,JP,AS16276 OVH SAS
+roubaix.fr.epiknet.org,EpiKnet-roubaix_fr_epiknet_org-FR-AS16276,EpiKnet,FR,AS16276 OVH SAS
+beraunet.us.allnetwork.org,AllNetwork-beraunet_us_allnetwork_org-US-AS142036,AllNetwork,US,AS142036 Hosteons Pte. Ltd.
+#irc.brazink.net,Brazink-irc_brazink_net-CA-AS16276,Brazink,CA,AS16276 OVH SAS
+skynet.eu.irc-nerds.net,IRC-Nerds-skynet_eu_irc-nerds_net-NL-AS60117,IRC-Nerds,NL,AS60117 Host Sailor Ltd
+cs1.coders-irc.net,Coders-IRC-cs1_coders-irc_net-US-AS63949,Coders-IRC,US,AS63949 Akamai Connected Cloud
+cs3.coders-irc.net,Coders-IRC-cs3_coders-irc_net-GB-AS63949,Coders-IRC,GB,AS63949 Akamai Connected Cloud
+cs2.coders-irc.net,Coders-IRC-cs2_coders-irc_net-CA-AS16276,Coders-IRC,CA,AS16276 OVH SAS
+plutone.orixon.org,Orixon-plutone_orixon_org-FR-AS16276,Orixon,FR,AS16276 OVH SAS
+nettuno.orixon.org,Orixon-nettuno_orixon_org-DE-AS16276,Orixon,DE,AS16276 OVH SAS
+saturno.orixon.org,Orixon-saturno_orixon_org-NL-AS16276,Orixon,NL,AS16276 OVH SAS
+irc-cf73.darkscience.net,darkscience-irc-cf73_darkscience_net-NL-AS20473,darkscience,NL,AS20473 The Constant Company, LLC
+mooo.digitalirc.org,DigitalIRC-mooo_digitalirc_org-FR-AS16276,DigitalIRC,FR,AS16276 OVH SAS
+teacup.digitalirc.org,DigitalIRC-teacup_digitalirc_org-GB-AS16276,DigitalIRC,GB,AS16276 OVH SAS
+dynamo.digitalirc.org,DigitalIRC-dynamo_digitalirc_org-NL-AS60781,DigitalIRC,NL,AS60781 LeaseWeb Netherlands B.V.
+stirfry.digitalirc.org,DigitalIRC-stirfry_digitalirc_org-SG-AS16276,DigitalIRC,SG,AS16276 OVH SAS
+fiery.ca.us.swiftirc.net,SwiftIRC-fiery_ca_us_swiftirc_net-US-AS14061,SwiftIRC,US,AS14061 DigitalOcean, LLC
+tardis.en.uk.swiftirc.net,SwiftIRC-tardis_en_uk_swiftirc_net-GB-AS14061,SwiftIRC,GB,AS14061 DigitalOcean, LLC
+irc2.net-tchat.fr,Net-Tchat-irc2_net-tchat_fr-GB-AS31898,Net-Tchat,GB,AS31898 Oracle Corporation
+irc1.net-tchat.fr,Net-Tchat-irc1_net-tchat_fr-FR-AS16276,Net-Tchat,FR,AS16276 OVH SAS
+aurora.afternet.org,AfterNET-aurora_afternet_org-US-AS63949,AfterNET,US,AS63949 Akamai Connected Cloud
+luna.afternet.org,AfterNET-luna_afternet_org-US-AS14061,AfterNET,US,AS14061 DigitalOcean, LLC
+irc2.chattersnet.nl,Chattersnet-irc2_chattersnet_nl-FR-AS16276,Chattersnet,FR,AS16276 OVH SAS
+irc1.chattersnet.nl,Chattersnet-irc1_chattersnet_nl-NL-AS16276,Chattersnet,NL,AS16276 OVH SAS
+abyss.nl.eu.darkmyst.org,DarkMyst-abyss_nl_eu_darkmyst_org-NL-AS14061,DarkMyst,NL,AS14061 DigitalOcean, LLC
+paralysis.tx.us.darkmyst.org,DarkMyst-paralysis_tx_us_darkmyst_org-US-AS63949,DarkMyst,US,AS63949 Akamai Connected Cloud
+maple.on.ca.darkmyst.org,DarkMyst-maple_on_ca_darkmyst_org-CA-AS14061,DarkMyst,CA,AS14061 DigitalOcean, LLC
+odyssey.de.eu.darkmyst.org,DarkMyst-odyssey_de_eu_darkmyst_org-DE-AS14061,DarkMyst,DE,AS14061 DigitalOcean, LLC
+phoenix.nsw.au.darkmyst.org,DarkMyst-phoenix_nsw_au_darkmyst_org-AU-AS20473,DarkMyst,AU,AS20473 The Constant Company, LLC
+nebula.uk.eu.darkmyst.org,DarkMyst-nebula_uk_eu_darkmyst_org-GB-AS63949,DarkMyst,GB,AS63949 Akamai Connected Cloud
+nutty.recycled-irc.net,Recycled-IRC-nutty_recycled-irc_net-FR-AS16276,Recycled-IRC,FR,AS16276 OVH SAS
+spoil.recycled-irc.net,Recycled-IRC-spoil_recycled-irc_net-BE-AS16276,Recycled-IRC,BE,AS16276 OVH SAS
+irc.us.mibbit.net,Mibbit-irc_us_mibbit_net-US-AS14618,Mibbit,US,AS14618 Amazon.com, Inc.
+irc.uk.mibbit.net,Mibbit-irc_uk_mibbit_net-GB-AS63949,Mibbit,GB,AS63949 Akamai Connected Cloud
+#irc.chat.com.tr,Chat_com_tr-irc_chat_com_tr-TR-AS199608,Chat.com.tr,TR,AS199608 Cuneyt Mentesoglu trading as "Birbir Internet Hizmetleri"
+#pibervision.evilnet.org,EvilNET-pibervision_evilnet_org-US-AS396982,EvilNET,US,AS396982 Google LLC
+eden.evilnet.org,EvilNET-eden_evilnet_org-CA-AS16276,EvilNET,CA,AS16276 OVH SAS
+quoservers.evilnet.org,EvilNET-quoservers_evilnet_org-FI-AS24940,EvilNET,FI,AS24940 Hetzner Online GmbH
+orgrimmar.evilnet.org,EvilNET-orgrimmar_evilnet_org-NO-AS56655,EvilNET,NO,AS56655 TerraHost AS
+#luxembourg.ix.evilnet.org,EvilNET-luxembourg_ix_evilnet_org-US-AS53667,EvilNET,US,AS53667 FranTech Solutions
+#corsair.scuttled.net,2600net-corsair_scuttled_net-US-AS16509,2600net,US,AS16509 Amazon.com, Inc.
+cornelius.scuttled.net,2600net-cornelius_scuttled_net-JP-AS40676,2600net,JP,AS40676 Psychz Networks
+apollo.jhb.za.atrum.org,Atrum-apollo_jhb_za_atrum_org-ZA-AS328037,Atrum,ZA,AS328037 Optify Systems (Pty) Ltd
+#zenith.cpt.za.atrum.org,Atrum-zenith_cpt_za_atrum_org-ZA-AS37199,Atrum,ZA,AS37199 Vanilla
+moraine.de.eu.atrum.org,Atrum-moraine_de_eu_atrum_org-DE-AS24940,Atrum,DE,AS24940 Hetzner Online GmbH
+succubus.il.us.chatlounge.net,ChatLounge-succubus_il_us_chatlounge_net-US-AS20473,ChatLounge,US,AS20473 The Constant Company, LLC
+vampire.tx.us.chatlounge.net,ChatLounge-vampire_tx_us_chatlounge_net-US-AS20473,ChatLounge,US,AS20473 The Constant Company, LLC
+demon.fl.us.chatlounge.net,ChatLounge-demon_fl_us_chatlounge_net-US-AS20473,ChatLounge,US,AS20473 The Constant Company, LLC
+medusa.nl.eu.chatlounge.net,ChatLounge-medusa_nl_eu_chatlounge_net-NL-AS198203,ChatLounge,NL,AS198203 RouteLabel V.O.F.
+chupacabra.ca.us.chatlounge.net,ChatLounge-chupacabra_ca_us_chatlounge_net-US-AS3842,ChatLounge,US,AS3842 InMotion Hosting, Inc.
+poltergeist.nj.us.chatlounge.net,ChatLounge-poltergeist_nj_us_chatlounge_net-US-AS20473,ChatLounge,US,AS20473 The Constant Company, LLC
+netsplit.pirc.pl,PIRC_pl-netsplit_pirc_pl-FR-AS16276,PIRC.pl,FR,AS16276 OVH SAS
+bzyk.pirc.pl,PIRC_pl-bzyk_pirc_pl-PL-AS205727,PIRC.pl,PL,AS205727 Aruba S.p.A.
+jowisz.pirc.pl,PIRC_pl-jowisz_pirc_pl-PL-AS16276,PIRC.pl,PL,AS16276 OVH SAS
+chommik.pirc.pl,PIRC_pl-chommik_pirc_pl-FR-AS16276,PIRC.pl,FR,AS16276 OVH SAS
+chmurka.pirc.pl,PIRC_pl-chmurka_pirc_pl-NL-AS198203,PIRC.pl,NL,AS198203 RouteLabel V.O.F.
+saturn.pirc.pl,PIRC_pl-saturn_pirc_pl-PL-AS16276,PIRC.pl,PL,AS16276 OVH SAS
+insomnia.pirc.pl,PIRC_pl-insomnia_pirc_pl-PL-AS51290,PIRC.pl,PL,AS51290 HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
+titan.lunarirc.net,LunarIRC-titan_lunarirc_net-NL-AS198203,LunarIRC,NL,AS198203 RouteLabel V.O.F.
+luna.lunarirc.net,LunarIRC-luna_lunarirc_net-NL-AS48635,LunarIRC,NL,AS48635 CLDIN B.V.
+bofh.nl.smurfnet.ch,Smurfnet-bofh_nl_smurfnet_ch-NL-AS1104,Smurfnet,NL,AS1104 Stichting Nederlandse Wetenschappelijk Onderzoek Instituten
+miauw.nl.smurfnet.ch,Smurfnet-miauw_nl_smurfnet_ch-NL-AS41960,Smurfnet,NL,AS41960 Nextpertise B.V.
+irc.bigua.org,BrasIRC-irc_bigua_org-BR-AS31898,BrasIRC,BR,AS31898 Oracle Corporation
+irc.brasirc.com.br,BrasIRC-irc_brasirc_com_br-CA-AS16276,BrasIRC,CA,AS16276 OVH SAS
+irc.lewdchat.com,LewdChat-irc_lewdchat_com-CA-AS16276,LewdChat,CA,AS16276 OVH SAS
+#mbeatsdj.va.ca.gigairc.net,GigaIRC-mbeatsdj_va_ca_gigairc_net-US-AS29873,GigaIRC,US,AS29873 Newfold Digital, Inc.
+#commander.in.cf.gigairc.net,GigaIRC-commander_in_cf_gigairc_net-US-AS29873,GigaIRC,US,AS29873 Newfold Digital, Inc.
+#paradise.is.mu.gigairc.net,GigaIRC-paradise_is_mu_gigairc_net-US-AS29873,GigaIRC,US,AS29873 Newfold Digital, Inc.
+portlane.se.eu.zenet.org,ZEnet-portlane_se_eu_zenet_org-SE-AS42708,ZEnet,SE,AS42708 GleSYS AB
+#akatsuki.nl.eu.zenet.org,ZEnet-akatsuki_nl_eu_zenet_org-NL-AS14061,ZEnet,NL,AS14061 DigitalOcean, LLC
+#chika.luatic.net,Luatic-chika_luatic_net-KR-AS16509,Luatic,KR,AS16509 Amazon.com, Inc.
